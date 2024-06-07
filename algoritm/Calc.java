@@ -4,9 +4,9 @@ public class Calc {
 	
 	private int x, y;
 	
-	// polimorfismo, ya le entiendo
+	// polimorfismo
 	public Calc(int x) {
-		System.out.println("No se puede hacer la suma correctamente. asegurese de mandar todos los valores correctamente");
+		System.out.println("No se puede hacer la suma correctamente. asegurese de mandar todos los valores correctos");
 	}
 	
 	public Calc(int x, int y) {
